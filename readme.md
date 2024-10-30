@@ -1,4 +1,4 @@
-<h2 align="left">Olá eu sou Aluisio</h2>
+<h2 align="left">Olá eu sou Aluísio</h2>
 
 ###
 
@@ -40,10 +40,10 @@
 
 <br clear="both">
 
-# Aluízio - Um Estudante de Tecnologia Louco pelo Saber
+# Aluísio - Um Estudante de Tecnologia Louco pelo Saber
 
 ## Sobre Mim
-Sou Aluízio, um entusiasta da tecnologia que busca constantemente expandir meu conhecimento e habilidades. Acredito que o aprendizado é uma jornada sem fim e estou sempre em busca de novos desafios.
+Sou Aluísio, um entusiasta da tecnologia que busca constantemente expandir meu conhecimento e habilidades. Acredito que o aprendizado é uma jornada sem fim e estou sempre em busca de novos desafios.
 
 ## Filosofia
 *“Sócrates afirmou que o ser humano possui um desejo natural pelo conhecimento.”*  
